@@ -20,5 +20,9 @@
 <p><strong>Allways in learning mode!</strong></p>
 
 </div>
-
+<div>
+<p>&nbsp</p>
+<p><strong>Spanish, English and French</strong></p>
+</div>
+<img src="https://us.123rf.com/450wm/sila5775/sila57751907/sila5775190700045/127183866-vector-gr%C3%A1fico-de-dibujos-animados-de-acci%C3%B3n-de-jugador-de-voleibol-.jpg?ver=6" height="100">
 

@@ -12,6 +12,7 @@
 <div>
 <p>&nbsp;</p>
 <p>Working on WordPress, PrestaShop and CodeIgnitier projects.</p>
+<p>Create new projects with NodeJs and Next, I'm exited! </p>
 <p>Experience in C# </p>
 <p>Skills in MySql</p>
 <p>Small projects in React and Vue</p>
